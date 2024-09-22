@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  /* background-color: #697565; */
+  /* background-image: url('/images/silver-background.jpg'); */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: monospace;
+  font-size: 12px;
+}
